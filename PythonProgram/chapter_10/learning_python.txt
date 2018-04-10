@@ -1,0 +1,5 @@
+In Python I can process data.
+In Python I can crawl websites.
+In Python I can learn AI.
+In Python I can design website.
+In Python I can do anything.
